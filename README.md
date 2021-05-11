@@ -41,11 +41,13 @@ The basis of Localization of [Japan NFC Reader (iOS / watchOS App)](https://japa
 - [Qrunch](https://qrunch.net/@treastrain)
 - [Zenn](https://zenn.dev/treastrain)
 - [Qiita](https://qiita.com/treastrain)
+- [Google Developer Profile](https://developers.google.com/profile/u/118062332944717733578)
 - [More...](https://treastrain.jp)
 
 
 ## 🏠
-Hachinohe, Aomori Pref., Japan　→　Shibuya, Tokyo, Japan
+Shibuya, Tokyo, Japan
+(from Hachinohe, Aomori Pref., Japan)
 
 ## 🎮
 Splatoon 2 ([@treastrain_spla](https://twitter.com/treastrain_spla))
