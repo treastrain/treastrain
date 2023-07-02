@@ -41,7 +41,7 @@ The basis of Localization of [Japan NFC Reader (iOS / watchOS App)](https://japa
 
 ## 🌐
 - [Twitter](https://twitter.com/treastrain)
-- Fediverse - [Misskey.io](https://misskey.io/@treastrain) (via [Mastodon](https://mstdn.jp/@treastrain@misskey.io))
+- Fediverse - [Misskey.io](https://misskey.io/@treastrain) (via [Mastodon](https://mastodon.social/@treastrain@misskey.io))
 - [Bluesky](https://bsky.app/profile/treastrain.jp)
 - [SpeakerDeck](https://speakerdeck.com/treastrain)
 - [Zenn](https://zenn.dev/treastrain)
