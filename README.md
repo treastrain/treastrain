@@ -5,6 +5,10 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=treastrain)
 
 [![Twitter: @treastrain](https://img.shields.io/twitter/follow/treastrain?label=%40treastrain&style=social)](https://twitter.com/treastrain)
+![GitHub Stars](https://img.shields.io/github/stars/treastrain?style=social)
+[![Zenn Likes](https://badgen.org/img/zenn/treastrain/likes?style=flat)](https://zenn.dev/treastrain)
+[![Zenn Articles](https://badgen.org/img/zenn/treastrain/articles?style=flat)](https://zenn.dev/treastrain)
+[![Zenn Scraps](https://badgen.org/img/zenn/treastrain/scraps?style=flat)](https://zenn.dev/treastrain)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/treastrain/contributions.svg)](https://qiita.com/treastrain)
 
 ## 💻
@@ -13,7 +17,7 @@ Swift (iOS, watchOS), Core NFC
 ## 📝
 ### [Japan NFC Reader](https://japannfcreader.tret.jp/) (iOS, watchOS App)
 [![Twitter: @JapanNFCReader](https://img.shields.io/twitter/follow/JapanNFCReader?label=%40JapanNFCReader&style=social)](https://twitter.com/JapanNFCReader)
-[![App Store Downloads 501K](https://img.shields.io/badge/App%20Store%20Downloads-501K-blue)](https://apps.apple.com/jp/app/id1480265213)
+[![App Store Downloads 511K](https://img.shields.io/badge/App%20Store%20Downloads-511K-blue)](https://apps.apple.com/jp/app/id1480265213)
 
 Check the balance of your Japanese e-money card (NFC, FeliCa) on your iPhone (iOS 13.0 or later).
 Sync your scanned history with a device signed in with the same iCloud account,
@@ -37,6 +41,8 @@ The basis of Localization of [Japan NFC Reader (iOS / watchOS App)](https://japa
 
 ## 🌐
 - [Twitter](https://twitter.com/treastrain)
+- Fediverse - [Misskey.io](https://misskey.io/@treastrain) (via [Mastodon](https://mstdn.jp/@treastrain@misskey.io))
+- [Bluesky](https://bsky.app/profile/treastrain.jp)
 - [SpeakerDeck](https://speakerdeck.com/treastrain)
 - [Zenn](https://zenn.dev/treastrain)
 - [Qiita](https://qiita.com/treastrain)
@@ -51,4 +57,4 @@ Shibuya, Tokyo, Japan
 (from Hachinohe, Aomori Pref., Japan)
 
 ## 🎮
-Splatoon 2 ([@treastrain_spla](https://twitter.com/treastrain_spla))
+Splatoon 3, Splatoon 2 ([@treastrain_spla](https://twitter.com/treastrain_spla)) - Nautilus 47
