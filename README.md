@@ -17,7 +17,7 @@ Swift (iOS, watchOS), Core NFC
 ## 📝
 ### [Japan NFC Reader](https://japannfcreader.tret.jp/) (iOS, watchOS App)
 [![Twitter: @JapanNFCReader](https://img.shields.io/twitter/follow/JapanNFCReader?label=%40JapanNFCReader&style=social)](https://twitter.com/JapanNFCReader)
-[![App Store Downloads 511K](https://img.shields.io/badge/App%20Store%20Downloads-511K-blue)](https://apps.apple.com/jp/app/id1480265213)
+[![App Store Downloads 528K](https://img.shields.io/badge/App%20Store%20Downloads-528K-blue)](https://apps.apple.com/jp/app/id1480265213)
 
 Check the balance of your Japanese e-money card (NFC, FeliCa) on your iPhone (iOS 13.0 or later).
 Sync your scanned history with a device signed in with the same iCloud account,
