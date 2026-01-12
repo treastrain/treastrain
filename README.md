@@ -1,9 +1,6 @@
 <!-- ![](https://github.com/treastrain/treastrain/blob/main/header.png) -->
 # treastrain / Tanaka Ryoga
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=treastrain&count_private=true&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=treastrain)
-
 [![Twitter: @treastrain](https://img.shields.io/twitter/follow/treastrain?label=%40treastrain&style=social)](https://twitter.com/treastrain)
 ![GitHub Stars](https://img.shields.io/github/stars/treastrain?style=social)
 [![Zenn Likes](https://badgen.org/img/zenn/treastrain/likes?style=flat)](https://zenn.dev/treastrain)
@@ -39,8 +36,6 @@ Not suitable for situations that require instantaneous video display.
 
 NFC Reader for Japanese NFC Cards for Apple Platforms. (used in [Japan NFC Reader](https://japannfcreader.tret.jp/) App)
 
-[![Stargazers over time](https://starcharts.herokuapp.com/treastrain/TRETJapanNFCReader.svg)](https://starcharts.herokuapp.com/treastrain/TRETJapanNFCReader)
-
 ### [treastrain/JapanNFCReader_L10n](https://github.com/treastrain/JapanNFCReader_L10n) (Japan NFC Reader Localization)
 [![GitHub Stars](https://img.shields.io/github/stars/treastrain/JapanNFCReader_L10n?style=social)](https://github.com/treastrain/JapanNFCReader_L10n/stargazers)
 [![CC-BY-SA-4.0 License](https://img.shields.io/badge/License-CC--BY--SA--4.0-blue.svg)](https://github.com/treastrain/JapanNFCReader_L10n/blob/master/LICENSE)
@@ -48,7 +43,7 @@ NFC Reader for Japanese NFC Cards for Apple Platforms. (used in [Japan NFC Reade
 The basis of Localization of [Japan NFC Reader (iOS / watchOS App)](https://japannfcreader.tret.jp/)
 
 ## 🌐
-- [Twitter](https://twitter.com/treastrain)
+- [X (formerly Twitter)](https://x.com/treastrain)
 - Fediverse - [Misskey.io](https://misskey.io/@treastrain) (via [Mastodon](https://mastodon.social/@treastrain@misskey.io))
 - [Bluesky](https://bsky.app/profile/treastrain.jp)
 - [SpeakerDeck](https://speakerdeck.com/treastrain)
