@@ -14,7 +14,7 @@ Swift (iOS, watchOS), Core NFC
 ## 📝
 ### [Japan NFC Reader](https://japannfcreader.tret.jp/) (iOS, watchOS App)
 [![Twitter: @JapanNFCReader](https://img.shields.io/twitter/follow/JapanNFCReader?label=%40JapanNFCReader&style=social)](https://twitter.com/JapanNFCReader)
-[![App Store Downloads 776K](https://img.shields.io/badge/App%20Store%20Downloads-776K-blue)](https://apps.apple.com/jp/app/id1480265213)
+[![App Store Downloads 798K](https://img.shields.io/badge/App%20Store%20Downloads-798K-blue)](https://apps.apple.com/jp/app/id1480265213)
 
 Check the balance of your Japanese e-money card (NFC, FeliCa) on your iPhone (iOS 13.0 or later).
 Sync your scanned history with a device signed in with the same iCloud account,
@@ -22,7 +22,7 @@ you can view it on other iPhone, iPad, iPod touch, Apple Watch.
 
 ### [PadDisplay](https://paddisplay.tret.jp) (iPadOS App)
 [![Twitter: @PadDisplay](https://img.shields.io/twitter/follow/PadDisplay?label=%40PadDisplay&style=social)](https://twitter.com/PadDisplay)
-[![App Store Downloads 424K](https://img.shields.io/badge/App%20Store%20Downloads-424K-blue)](https://apps.apple.com/jp/app/id6451344925)
+[![App Store Downloads 428K](https://img.shields.io/badge/App%20Store%20Downloads-428K-blue)](https://apps.apple.com/jp/app/id6451344925)
 
 Your iPad becomes a simple mobile display!
 Connect a webcam or capture board to the Lightning or USB-C port on your iPad to view video.
